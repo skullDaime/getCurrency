@@ -1,0 +1,98 @@
+#top
+{
+
+}
+
+#left
+{
+
+}
+
+#mid
+{
+
+}
+
+#right
+{
+
+}
+
+#bottom
+{
+
+}
+
+#sidebar{
+        display: inline-block;
+        width: 200px;
+        overflow-y: hidden;
+}
+
+#bottom
+{
+    margin: 20px;
+    background-color: #181818;
+    height: auto;
+}
+
+/*
+    ADDITIONAL DEMO STYLE, NOT IMPORTANT TO MAKE THINGS WORK BUT TO MAKE IT A BIT NICER :)
+*/
+body {
+font-family: Helvetica;
+background-color: #FFFFFF;
+ background-size: 100% 100%;
+ background-repeat: no-repeat;
+
+}
+.menu-option    {
+    background-color: #181818;
+    font-size: 15px;
+    list-style-type: none;
+    transition: 0.1s;
+    decoration: none;
+      text-align: center;
+    width: auto;
+}
+
+.menu-option:hover
+{
+    background-color:  #1a881c;
+}
+
+a
+{
+    color:#FFFFFF;
+}
+
+div-menu{
+
+
+}
+
+
+
+.cont
+{
+    background-color: #1a881c;
+    border-radius: 10px;
+
+    padding: 2%;
+}
+
+.read-line-task
+{
+  text-align: center;
+}
+
+.read-line-task:hover
+{
+    background-color: #1a881c;
+}
+
+wsync   {
+  width: 300px;
+  height: 200px;
+  border: 1px solid #ccc;
+}
